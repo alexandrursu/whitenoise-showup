@@ -225,4 +225,9 @@ ul {
     ul {
         margin: 0;
     }
+
+    img.better-image-small {
+        width: 350px;
+    }
+
 }
